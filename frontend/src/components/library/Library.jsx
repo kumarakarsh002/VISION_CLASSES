@@ -7,11 +7,11 @@ import {
   FaEye,
   FaDownload
 } from "react-icons/fa";
-import content from '../../../../backend/data/content.json'
+import contentdata from '../../../../backend/data/content.json'
 
 
 
-const Content = () => {
+const Content = ({studyclass, topic, type, pdf}) => {
   return (
     <>
 
@@ -24,18 +24,18 @@ const Content = () => {
         </div>
 
         <div className={styles.contentmiddle}>
-          <p>Class: 12th</p>
-          <h4>Topic: Mathematics</h4>
+          <p>Class: {studyclass}</p>
+          <h4>Topic: {topic}</h4>
         </div>
 
         <div className={styles.contentbottom}>
           <span className={styles.pdf}>
-            <FaFilePdf /> PDF
+            <FaFilePdf /> {type}
           </span>
 
           <div className={styles.actions}>
             <button
-              onClick={() => window.open("/notes/notes.pdf", "_blank")}
+              onClick={() => window.open(pdf, "_blank")}
               title="View PDF"
             >
               <FaEye /> View
@@ -61,8 +61,11 @@ const Library = () => {
         <div className={styles.underline}></div>
       </div>
       <div className={styles.contentdiv}>
-        <Content />
-        <Content />
+        {contentdata.map((elem) =>{
+          return(
+            <Content key={elem.id} studyclass={elem.class} topic={elem.topic} type={elem.type} pdf={elem.pdf}/>
+          )
+        })}
       </div>
     </div>
   )

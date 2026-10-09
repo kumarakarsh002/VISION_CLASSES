@@ -93,7 +93,7 @@
 /* content */
 
 .contentdiv {
-  border: 2px solid green;
+  /* border: 2px solid green; */
   width: 100%;
   min-height: 250px;
   margin-top: 2%;

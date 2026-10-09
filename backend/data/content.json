@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "class": "Class: 10th",
+    "topic": "ACID, BASE & SALT",
+    "type": "PDF",
+    "pdf": "/notes/ACID, BASE & SALT.pdf"
+  },
+  {
+    "id": 2,
+    "class": "Class: 10th",
+    "topic": "ATOM, MOLECULES AND IONS",
+    "type": "PDF",
+    "pdf": "/notes/ATOM, MOLECULES AND IONS.pdf"
+  },
+  {
+    "id": 3,
+    "class": "Class: 10th",
+    "topic": "ATOMIC STRUCTURE",
+    "type": "PDF",
+    "pdf": "/notes/ATOMIC STRUCTURE.pdf"
+  },
+  {
+    "id": 4,
+    "class": "Class: 10th",
+    "topic": "CARBON AND ITS COMPOUND",
+    "type": "PDF",
+    "pdf": "/notes/CARBON AND ITS COMPOUND.pdf"
+  },
+  {
+    "id": 5,
+    "class": "Class: 10th",
+    "topic": "CHEMICAL REACTION & EQUATION",
+    "type": "PDF",
+    "pdf": "/notes/CHEMICAL REACTION & EQUATION.pdf"
+  },
+  {
+    "id": 6,
+    "class": "Class: 10th",
+    "topic": "ELECTRICITY",
+    "type": "PDF",
+    "pdf": "/notes/ELECTRICITY.pdf"
+  },
+  {
+    "id": 7,
+    "class": "Class: 10th",
+    "topic": "GRAVITATION",
+    "type": "PDF",
+    "pdf": "/notes/GRAVITATION.pdf"
+  },
+  {
+    "id": 8,
+    "class": "Class: 10th",
+    "topic": "HUMAN EYES",
+    "type": "PDF",
+    "pdf": "/notes/HUMAN EYES.pdf"
+  },
+  {
+    "id": 9,
+    "class": "Class: 10th",
+    "topic": "IS MATTER AROUND US PURE",
+    "type": "PDF",
+    "pdf": "/notes/IS MATTER AROUND US PURE.pdf"
+  },
+  {
+    "id": 10,
+    "class": "Class: 10th",
+    "topic": "MAGNETIC EFFECT OF ELECTRIC CURRENT",
+    "type": "PDF",
+    "pdf": "/notes/MAGNETIC EFFECT OF ELECTRIC CURRENT.pdf"
+  },
+  {
+    "id": 11,
+    "class": "Class: 10th",
+    "topic": "MATTER IN OUR SURROUNDINGS",
+    "type": "PDF",
+    "pdf": "/notes/MATTER IN OUR SURROUNDINGS.pdf"
+  },
+  {
+    "id": 12,
+    "class": "Class: 10th",
+    "topic": "METALS AND NON-METALS",
+    "type": "PDF",
+    "pdf": "/notes/METALS AND NON - METALS.pdf"
+  },
+  {
+    "id": 13,
+    "class": "Class: 10th",
+    "topic": "MOTION",
+    "type": "PDF",
+    "pdf": "/notes/MOTION.pdf"
+  },
+  {
+    "id": 14,
+    "class": "Class: 10th",
+    "topic": "REFRACTION OF LIGHT",
+    "type": "PDF",
+    "pdf": "/notes/REFRACTION OF LIGHT.pdf"
+  },
+  {
+    "id": 15,
+    "class": "Class: 10th",
+    "topic": "SCIENCE & MESUREMENT",
+    "type": "PDF",
+    "pdf": "/notes/SCIENCE & MESUREMENT.pdf"
+  },
+  {
+    "id": 16,
+    "class": "Class: 10th",
+    "topic": "SOUND",
+    "type": "PDF",
+    "pdf": "/notes/SOUND.pdf"
+  },
+  {
+    "id": 17,
+    "class": "Class: 10th",
+    "topic": "WORK, POWER AND ENERGY",
+    "type": "PDF",
+    "pdf": "/notes/WORK, POWER AND ENERGY.pdf"
+  }
+]
